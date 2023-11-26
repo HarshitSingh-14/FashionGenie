@@ -1,5 +1,7 @@
 # Fashion Genie
 
+
+
 ## Conceptual Discourse: Vision and Purpose
 
 > In this repository, we address various challenges in the fashion domain through innovative solutions powered by AI. Our goal is to enhance the fashion shopping experience for users by leveraging cutting-edge technologies. Here's an overview of the key problems we tackle and their corresponding solutions:
@@ -109,3 +111,10 @@ build.
                                 project.
 ```
 # FashionGenie
+
+## Our Team  🎳<br />
+Name - Ayush Pratap Singh - https://github.com/ayushpratap113  <br />
+Email - ayush.pratap@iiitg.ac.in.  Contact number: `98391662530` <br />
+Name - Harshit Singh - https://github.com/Harshitsingh-14 <br />
+Email - harshit.singh@iiitg.ac.in.  Contact number: `9205021433` <br />
+
